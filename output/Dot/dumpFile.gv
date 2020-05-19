@@ -1,0 +1,47 @@
+digraph graf {
+treeNode_0xe714b0 [label="treeNode_[0xe714b0]\l{\l  parent_ [(nil)]\l  data_ [0xe71490] = *\l  type_ = 2\l  left_ [0xe71510]\l  right_ [0xe717f0]\l}\l"]
+treeNode_0xe714b0->treeNode_0xe71510
+treeNode_0xe71510 [label="treeNode_[0xe71510]\l{\l  parent_ [0xe714b0]\l  data_ [0xe714f0] = /\l  type_ = 2\l  left_ [0xe71550]\l  right_ [0xe715b0]\l}\l"]
+treeNode_0xe71510->treeNode_0xe71550
+treeNode_0xe71550 [label="treeNode_[0xe71550]\l{\l  parent_ [0xe71510]\l  data_[0xe71560] = 1\l  type_ = 0\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+treeNode_0xe71510->treeNode_0xe715b0
+treeNode_0xe715b0 [label="treeNode_[0xe715b0]\l{\l  parent_ [0xe71510]\l  data_ [0xe71590] = /\l  type_ = 2\l  left_ [0xe715f0]\l  right_ [0xe71650]\l}\l"]
+treeNode_0xe715b0->treeNode_0xe715f0
+treeNode_0xe715f0 [label="treeNode_[0xe715f0]\l{\l  parent_ [0xe715b0]\l  data_[0xe71600] = 1\l  type_ = 0\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+treeNode_0xe715b0->treeNode_0xe71650
+treeNode_0xe71650 [label="treeNode_[0xe71650]\l{\l  parent_ [0xe715b0]\l  data_ [0xe71630] = +\l  type_ = 2\l  left_ [0xe716b0]\l  right_ [0xe71790]\l}\l"]
+treeNode_0xe71650->treeNode_0xe716b0
+treeNode_0xe716b0 [label="treeNode_[0xe716b0]\l{\l  parent_ [0xe71650]\l  data_ [0xe71690] = ^\l  type_ = 2\l  left_ [0xe71710]\l  right_ [0xe71750]\l}\l"]
+treeNode_0xe716b0->treeNode_0xe71710
+treeNode_0xe71710 [label="treeNode_[0xe71710]\l{\l  parent_ [0xe716b0]\l  data_ [0xe716f0] = x\l  type_ = 1\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+treeNode_0xe716b0->treeNode_0xe71750
+treeNode_0xe71750 [label="treeNode_[0xe71750]\l{\l  parent_ [0xe716b0]\l  data_[0xe71760] = 2\l  type_ = 0\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+treeNode_0xe71650->treeNode_0xe71790
+treeNode_0xe71790 [label="treeNode_[0xe71790]\l{\l  parent_ [0xe71650]\l  data_[0xe717a0] = 2\l  type_ = 0\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+treeNode_0xe714b0->treeNode_0xe717f0
+treeNode_0xe717f0 [label="treeNode_[0xe717f0]\l{\l  parent_ [0xe714b0]\l  data_ [0xe717d0] = /\l  type_ = 2\l  left_ [0xe71850]\l  right_ [0xe719f0]\l}\l"]
+treeNode_0xe717f0->treeNode_0xe71850
+treeNode_0xe71850 [label="treeNode_[0xe71850]\l{\l  parent_ [0xe717f0]\l  data_ [0xe71830] = *\l  type_ = 2\l  left_ [0xe71890]\l  right_ [0xe718f0]\l}\l"]
+treeNode_0xe71850->treeNode_0xe71890
+treeNode_0xe71890 [label="treeNode_[0xe71890]\l{\l  parent_ [0xe71850]\l  data_[0xe718a0] = -1\l  type_ = 0\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+treeNode_0xe71850->treeNode_0xe718f0
+treeNode_0xe718f0 [label="treeNode_[0xe718f0]\l{\l  parent_ [0xe71850]\l  data_ [0xe718d0] = *\l  type_ = 2\l  left_ [0xe71930]\l  right_ [0xe71990]\l}\l"]
+treeNode_0xe718f0->treeNode_0xe71930
+treeNode_0xe71930 [label="treeNode_[0xe71930]\l{\l  parent_ [0xe718f0]\l  data_[0xe71940] = 2\l  type_ = 0\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+treeNode_0xe718f0->treeNode_0xe71990
+treeNode_0xe71990 [label="treeNode_[0xe71990]\l{\l  parent_ [0xe718f0]\l  data_ [0xe71970] = x\l  type_ = 1\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+treeNode_0xe717f0->treeNode_0xe719f0
+treeNode_0xe719f0 [label="treeNode_[0xe719f0]\l{\l  parent_ [0xe717f0]\l  data_ [0xe719d0] = ^\l  type_ = 2\l  left_ [0xe71a50]\l  right_ [0xe71bd0]\l}\l"]
+treeNode_0xe719f0->treeNode_0xe71a50
+treeNode_0xe71a50 [label="treeNode_[0xe71a50]\l{\l  parent_ [0xe719f0]\l  data_ [0xe71a30] = +\l  type_ = 2\l  left_ [0xe71ab0]\l  right_ [0xe71b90]\l}\l"]
+treeNode_0xe71a50->treeNode_0xe71ab0
+treeNode_0xe71ab0 [label="treeNode_[0xe71ab0]\l{\l  parent_ [0xe71a50]\l  data_ [0xe71a90] = ^\l  type_ = 2\l  left_ [0xe71b10]\l  right_ [0xe71b50]\l}\l"]
+treeNode_0xe71ab0->treeNode_0xe71b10
+treeNode_0xe71b10 [label="treeNode_[0xe71b10]\l{\l  parent_ [0xe71ab0]\l  data_ [0xe71af0] = x\l  type_ = 1\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+treeNode_0xe71ab0->treeNode_0xe71b50
+treeNode_0xe71b50 [label="treeNode_[0xe71b50]\l{\l  parent_ [0xe71ab0]\l  data_[0xe71b60] = 2\l  type_ = 0\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+treeNode_0xe71a50->treeNode_0xe71b90
+treeNode_0xe71b90 [label="treeNode_[0xe71b90]\l{\l  parent_ [0xe71a50]\l  data_[0xe71ba0] = 2\l  type_ = 0\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+treeNode_0xe719f0->treeNode_0xe71bd0
+treeNode_0xe71bd0 [label="treeNode_[0xe71bd0]\l{\l  parent_ [0xe719f0]\l  data_[0xe71be0] = 2\l  type_ = 0\l  left_ [(nil)]\l  right_ [(nil)]\l}\l"]
+}
